@@ -1,2 +1,2 @@
-kilo: kilo.c
-		$(CC) kilo.c -o kilo -Wall -Wextra -pedantic -std=c11
+blimo: blimo.c
+		$(CC) blimo.c -o blimo -Wall -Wextra -pedantic -std=c11
